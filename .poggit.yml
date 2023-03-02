@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RifqyDev/OrionMCKeyShop
+build-by-default: true
+branches:
+- RifqyDev\KeyShop\Main
+- Api: 4.8.0
+projects: OrionMCKeyShop
+...
